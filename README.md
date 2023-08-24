@@ -27,4 +27,4 @@ To demonstrate, following the instructions below carefully.
 
 8. Check that you have successfully connected to a remote MySQL server and can perform SQL queries. You should something similar to the screenshot below:
 
-![NGINX Status](./Images-5/Image-5.1.jpg)
+![NGINX Status](./Images-5/image-5.1.jpg)
